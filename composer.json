@@ -1,0 +1,48 @@
+{
+    "name": "zouyonghao/flarum-es",
+    "description": "Elasticsearch support for Flarum",
+    "version": "1.0",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "GPL-3.0",
+    "require": {
+        "flarum/core": "^1.0.0",
+        "elasticsearch/elasticsearch": "^7.12"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "authors": [
+        {
+            "name": "rrmode",
+            "email": "retretx@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Yong-Hao Zou",
+            "email": "yonghaoz1994@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rrmode\\FlarumES\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Flarum ES",
+            "icon": {
+                "name": "fab fa-searchengin",
+                "backgroundColor": "",
+                "color": ""
+            }
+        },
+        "flagrow": {
+            "discuss": ""
+        }
+    }
+}

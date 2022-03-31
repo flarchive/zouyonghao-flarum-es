@@ -1,0 +1,16 @@
+{
+  "name": "@zouyonghao/flarum-elasticsearch",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "flarum-webpack-config": "^2.0.0",
+    "webpack": "^5.60.0"
+  },
+  "scripts": {
+    "dev": "webpack --mode development --watch",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.9.2"
+  }
+}
