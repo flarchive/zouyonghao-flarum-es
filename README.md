@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of zouyonghao/flarum-es.** Not for installation: use [Packagist](https://packagist.org/packages/zouyonghao/flarum-es) or the [upstream repository](https://github.com/zouyonghao/flarum-elastic).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/zouyonghao-flarum-es/tree/archive/v1.0) · License: `GPL-3.0` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/zouyonghao-flarum-es/tree/archive/v1.0) · License: `GPL-3.0` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-03-31 | `^1.0.0` | [Browse](https://github.com/flarchive/zouyonghao-flarum-es/tree/archive/v1.0) |
 
 Catalog entry: [packages/zouyonghao-flarum-es.json](https://github.com/flarchive/archive-index/blob/main/packages/zouyonghao-flarum-es.json)
 
